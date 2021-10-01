@@ -7,7 +7,7 @@ const imagens = [
   "./img/furacao.jpg",
   "./img/erupcao.jpg",
   "./img/tsunami.jpg",
-  "./img/terremoto.jpg"
+  "./img/terremoto.jpg",
 ];
 
 // MAP - FILTER - REDUCE -> Declarativa
